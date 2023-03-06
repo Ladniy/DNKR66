@@ -5,7 +5,7 @@
 | Name               | Qty | Package  | Value       | Aliexpress                                                   | Mark               |
 | ------------------ | --- | -------- | ----------- | ------------------------------------------------------------ | ------------------ |
 | Holyiot            | 1   | SMD      | YJ-18010    | [Link](https://aliexpress.com/item/32868365660.html)         | Unshilded version  | 
-| Diode              | 69  | SOD-123  | 1N5819      | [Link](https://aliexpress.com/item/32849879904.html)         |                    |
+| Diode              | 67  | SOD-123  | 1N5819      | [Link](https://aliexpress.com/item/32849879904.html)         |                    |
 | Resistor           | 1   | SMD 0603 | 2M          | [Link](https://aliexpress.com/item/32847135098.html)         |                    |
 | Resistor           | 1   | SMD 0603 | 820k        | [Link](https://aliexpress.com/item/32847135098.html)         |                    |
 | Resistor           | 1   | SMD 0603 | 3.3k        | [Link](https://aliexpress.com/item/32847135098.html)         |                    |
@@ -24,7 +24,7 @@
 | USB Connector      | 1   | SMD      | 1.6mm       | [Link](https://aliexpress.com/item/32998900371.html)         |                    |
 | Power Switch       | 1   | SMD      | MSK12C02    | [Link](https://aliexpress.com/item/32856542440.html)         |                    |
 | Reset Switch       | 1   | SMD      | 5.2x5.2x1.5 | [Link](https://aliexpress.com/item/32989610390.html)         |                    |
-| Hotswap Sockets    | 68  | SMD      | MX          | [Link](https://aliexpress.com/item/1005001774166274.html)    |                    |
+| Hotswap Sockets    | 66  | SMD      | MX          | [Link](https://aliexpress.com/item/1005001774166274.html)    |                    |
 | Battery Connector  | 1   | THT      | 18650       | [Link](https://aliexpress.com/item/1005001865922427.html)    |                    |
 | Battery            | 1   | 18650    |             | -                                                            | Without protection |
 
