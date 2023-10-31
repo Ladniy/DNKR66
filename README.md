@@ -1,4 +1,10 @@
-# DNKR64
+# DNKR66
+
+## Software
+
+DNKR66 is powered by [ZMK firmware](https://zmk.dev/)
+
+You can download firmware [here](https://github.com/Ladniy/dnkr66-zmk-config)
 
 ## BOM
 
